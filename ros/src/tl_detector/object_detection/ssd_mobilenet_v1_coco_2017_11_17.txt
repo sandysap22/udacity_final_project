@@ -1,0 +1,4 @@
+download following tar and extract in current location :
+http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v1_coco_2017_11_17.tar.gz
+
+refer : https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md
